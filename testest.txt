@@ -1,6 +1,3 @@
 john was here!
-<<<<<<< HEAD
-dugayang andre uy
-=======
 joswa was here!!
->>>>>>> cbfa7c4fbd0aada05652b861a03ecfd20156b7aa
+sheesh
